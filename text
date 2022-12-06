@@ -1,2 +1,4 @@
 for(j=1;lj<30;j++)
  for(i=0;i<10;i++)
+ case 1;
+ break;
